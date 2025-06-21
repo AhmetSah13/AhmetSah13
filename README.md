@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Merhaba, ben Ahmet Şahin
 
-<!--
-**AhmetSah13/AhmetSah13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bandırma 17 Eylül Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.  
+🧠 Yazılım geliştirme alanında özellikle **web teknolojilerine** odaklanıyorum.  
+🌱 Şu anda Java ile backend geliştirmeye yeni başladım ve kendimi bu alanda geliştiriyorum.  
+🚀 Hedefim, web ve backend alanında uzmanlaşmak ve üretken projeler geliştirmek.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Kullandığım ve Öğrendiğim Teknolojiler
+
+### 🖥️ Frontend
+- HTML / CSS
+- JavaScript
+- React
+
+### 🗄️ Backend
+- .NET (C#) – bazı projeler geliştirdim
+- Java – yeni başladım, temel seviye bilgiye sahibim
+
+### 💾 Veritabanı
+- MS SQL Server
+- MongoDB
+
+---
+
+## 📈 GitHub’da Hedefim
+- Gerçek projelerle pratik kazanmak
+- Açık kaynak dünyasına katkı sağlamak
+- Kendimi ve ilerlememi belgelemek
+
+---
+
+## 📫 Bana Ulaşın
+- E-posta: bilgisayar2713@gmail.com
+- LinkedIn: [linkedin.com/in/sahinahmet](https://linkedin.com/in/sahinahmet)
