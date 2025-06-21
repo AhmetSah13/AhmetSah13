@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Ahmet Şahin
+# 👋 Merhaba, ben Ahmet Şahin Orkin
 
 🎓 Bandırma 17 Eylül Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.  
 🧠 Yazılım geliştirme alanında özellikle **web teknolojilerine** odaklanıyorum.  
@@ -33,4 +33,3 @@
 
 ## 📫 Bana Ulaşın
 - E-posta: bilgisayar2713@gmail.com
-- LinkedIn: [linkedin.com/in/sahinahmet](https://linkedin.com/in/sahinahmet)
