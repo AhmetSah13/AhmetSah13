@@ -1,13 +1,13 @@
-# 👋 Merhaba, ben Ahmet Şahin Orkin
+# 👋 Hello, I'm Ahmet Şahin Orkin
 
-🎓 Bandırma 17 Eylül Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.  
-🧠 Yazılım geliştirme alanında özellikle **web teknolojilerine** odaklanıyorum.  
-🌱 Şu anda Java ile backend geliştirmeye yeni başladım ve kendimi bu alanda geliştiriyorum.  
-🚀 Hedefim, web ve backend alanında uzmanlaşmak ve üretken projeler geliştirmek.
+🎓 I'm a 3rd-year Computer Engineering student at Bandırma 17 Eylül University.  
+🧠 I focus mainly on **web technologies** in my software development journey.  
+🌱 I have recently started backend development with Java and I'm actively improving myself in this area.  
+🚀 My goal is to specialize in web and backend development and to build meaningful, real-world projects.
 
 ---
 
-## 🔧 Kullandığım ve Öğrendiğim Teknolojiler
+## 🔧 Technologies I Use and Learn
 
 ### 🖥️ Frontend
 - HTML / CSS
@@ -15,21 +15,21 @@
 - React
 
 ### 🗄️ Backend
-- .NET (C#) – bazı projeler geliştirdim
-- Java – yeni başladım, temel seviye bilgiye sahibim
+- .NET (C#) – I’ve developed small-scale projects
+- Java – Just getting started, learning the basics
 
-### 💾 Veritabanı
+### 💾 Database
 - MS SQL Server
 - MongoDB
 
 ---
 
-## 📈 GitHub’da Hedefim
-- Gerçek projelerle pratik kazanmak
-- Açık kaynak dünyasına katkı sağlamak
-- Kendimi ve ilerlememi belgelemek
+## 📈 My GitHub Goals
+- Gain hands-on experience through real projects  
+- Contribute to open source  
+- Document my progress and learning journey
 
 ---
 
-## 📫 Bana Ulaşın
-- E-posta: bilgisayar2713@gmail.com
+## 📫 Contact Me
+- Email: bilgisayar2713@gmail.com
