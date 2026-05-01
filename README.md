@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmet Şahin Orkin
 
-🎓 I'm a 3rd-year Software Engineering student at Bandırma 17 Eylül University.  
+🎓 I'm a 4rd-year Software Engineering student at Bandırma 17 Eylül University.  
 🧠 I focus mainly on **web technologies** in my software development journey.  
 🌱 I have recently started backend development with Java and I'm actively improving myself in this area.  
 🚀 My goal is to specialize in web and backend development and to build meaningful, real-world projects.
