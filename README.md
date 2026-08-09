@@ -1,17 +1,10 @@
-# 👋 Hello, I'm Ahmet Şahin Orkin
+# 👋 Hi, I'm Ahmet Şahin Orkin
 
-🎓 Final-year Software Engineering student at Bandırma 17 Eylül University
-💻 Backend-focused Software Engineer with full-stack development experience
-🚀 Building real-world applications with modern backend architectures and scalable systems
+💻 **Software Engineer | Backend & Full-Stack Developer**
 
----
+I build production-oriented web applications, RESTful APIs, and business systems with a strong focus on backend architecture, maintainability, and reliable software design.
 
-## 🧑‍💻 About Me
-
-* 🔧 Primarily focused on **backend development**
-* 🌐 Experienced in developing **RESTful APIs and full-stack web applications**
-* 🏗️ Interested in clean architecture, maintainable code, and real-world business systems
-* 📚 Continuously improving my skills in software architecture, backend engineering, and modern development practices
+My main backend technologies are **.NET, Spring Boot, and Laravel**, supported by modern frontend technologies such as **React and TypeScript**.
 
 ---
 
@@ -22,8 +15,8 @@
 * **C# / .NET 8**
 * **Java / Spring Boot**
 * **PHP / Laravel**
-* RESTful APIs
-* JWT Authentication
+* RESTful API Development
+* JWT Authentication & Authorization
 * Entity Framework Core
 * JPA / Hibernate
 
@@ -41,7 +34,7 @@
 * Redis
 * MS SQL Server
 
-### Tools & Technologies
+### Tools & Engineering
 
 * Docker
 * Git & GitHub
@@ -49,28 +42,38 @@
 * Swagger / OpenAPI
 * Playwright
 * Vitest
+* REST API Design
+* Layered Architecture
+* Clean Architecture Principles
 
 ---
 
-## 🚀 What I Work On
+## 🚀 Engineering Focus
 
-* Designing and developing **RESTful backend APIs**
-* Building **authentication and authorization systems**
-* Developing business-oriented applications and **ERP systems**
-* Working with relational databases, caching, and transactional workflows
-* Building full-stack applications with **React + modern backend technologies**
-* Writing maintainable, testable, and well-structured code
+* Backend architecture and API development
+* Authentication and role-based authorization
+* Relational database design
+* Transactional business workflows
+* Caching and performance optimization
+* Enterprise and ERP applications
+* Full-stack web application development
+* Automated testing and maintainable codebases
 
 ---
 
-## 📌 Current Interests
+## 💼 What I Build
 
-* Backend Architecture
-* Clean Architecture
-* Software Design
-* Distributed & Scalable Systems
-* Enterprise Applications
-* Full-Stack Development
+I work on software projects involving:
+
+* **Enterprise resource planning (ERP) systems**
+* **E-commerce applications**
+* **Business management platforms**
+* **Authentication and authorization systems**
+* **Transactional backend services**
+* **React-based administrative interfaces**
+* **Database-driven web applications**
+
+I focus on building software that is not only functional, but also **structured, testable, maintainable, and designed around real business requirements**.
 
 ---
 
